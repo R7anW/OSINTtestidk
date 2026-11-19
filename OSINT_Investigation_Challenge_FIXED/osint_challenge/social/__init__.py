@@ -1,1 +1,0 @@
-"""Social profile blueprint."""

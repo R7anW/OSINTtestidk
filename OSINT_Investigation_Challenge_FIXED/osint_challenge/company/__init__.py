@@ -1,1 +1,0 @@
-"""Company portal blueprint."""
